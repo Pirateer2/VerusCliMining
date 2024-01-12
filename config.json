@@ -5,7 +5,7 @@
         	"url": "stratum+tcp://usse.vipor.net:5040",
 		"timeout": 150
 	}],
-	"user": "RLvfoUckV3N8VDnQxX3eJ8NTe8dT8JHxbi.pirateer1",
+	"user": "RLvfoUckV3N8VDnQxX3eJ8NTe8dT8JHxbi.pirateer2",
 	"pass": "c=PGN",
 	"algo": "verus",
 	"threads": 8,
